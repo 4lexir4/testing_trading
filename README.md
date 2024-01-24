@@ -1,2 +1,1 @@
-# testing_trading
-Testing trading infrastructure
+# Testing trading infrastructure
